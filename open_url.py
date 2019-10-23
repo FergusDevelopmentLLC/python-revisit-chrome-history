@@ -9,7 +9,6 @@ ignore = []
 ignore.append("localhost")
 ignore.append("linkedin")
 ignore.append("reddit")
-ignore.append("scrimba.com")
 
 #or, define ur own ignore words
 # text_file = open("private/ignore.csv", "r")
